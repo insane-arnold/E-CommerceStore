@@ -1,0 +1,23 @@
+export const MainCarouselData=[
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_5.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_1.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/2/12_6.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_3.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_8.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/2/12_9.jpg"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/2/12_4.jpg"
+    }
+]
